@@ -1,2 +1,16 @@
 ipykernel
 pytz
+memory_profiler
+requests
+requests-html
+lxml-html-clean
+python-dotenv
+pillow
+pandas
+matplotlib
+numpy
+openpyxl
+xlwt
+xlrd
+SQLAlchemy
+psycopg2
