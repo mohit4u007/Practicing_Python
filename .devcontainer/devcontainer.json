@@ -22,8 +22,7 @@
 		"vscode": {
 			"extensions": [
 				"ms-toolsai.jupyter",
-				"ms-python.python",
-				"google.geminicodeassist"
+				"ms-python.python"
 			]
 		}
 	}
